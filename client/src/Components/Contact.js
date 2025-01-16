@@ -64,9 +64,7 @@ const Contact = () => {
 
   return (
     <main>
-      <header className="header-contact">
-        <h3 className="heading-contact">Contacts</h3>
-      </header>
+      
       <div className="cont">
         <section id="contact">
           <div className="container my-5 py-5">
@@ -77,11 +75,7 @@ const Contact = () => {
                   Have Some <b>Question?</b>
                 </h1>
 
-                <hr className="w-25 mx-auto" />
-                <br></br>
-                <hr className="w-25 mx-auto" />
-                <br></br>
-                <hr className="w-25 mx-auto" />
+               
               </div>
             </div>
             <div className="row">
