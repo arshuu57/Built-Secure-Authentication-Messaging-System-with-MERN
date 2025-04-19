@@ -123,7 +123,7 @@ const Register = () => {
                   id="exampleCheck1"
                 />
                 <label className="form-check-label" htmlFor="exampleCheck1">
-                  I Agree Terms and Conditions
+                  I Agree Terms and Conditions!
                 </label>
               </div>
               <button type="submit" className="btn btn-outline-primary w-100 mt-4 rounded-pill">
