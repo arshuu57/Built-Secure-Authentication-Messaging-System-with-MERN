@@ -55,6 +55,7 @@ A secure full-stack messaging system built with the MERN stack (MongoDB, Express
    - Authenticated users can send messages
   
   🙋‍♂️ Author
+  
 Arshad Khan
 MERN Stack Developer
 📧 arshadkhan73316@gmail.com | 🌐 [Your Portfolio Link]
